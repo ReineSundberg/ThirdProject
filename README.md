@@ -1,2 +1,4 @@
-# ThirdProject
-My Third project learning Git
+# Third Project
+My Third project. Learning Git. Hello Everyone.
+
+
